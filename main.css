@@ -2,7 +2,6 @@
     height: 80px;
     width: 80px;
     background-color: black;
-    clip-path: circle();
 }
 .nav{
     background-color: black;
