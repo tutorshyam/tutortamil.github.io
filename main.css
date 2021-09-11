@@ -5,7 +5,6 @@
     clip-path: circle();
 }
 .nav{
-    display: flex;
     background-color: black;
 }
 .nav ul li{
