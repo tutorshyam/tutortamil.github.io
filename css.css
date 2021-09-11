@@ -1,0 +1,32 @@
+.name{
+    height: 500px;
+    width: 700px;
+    color: white;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    border-radius: 20px;
+    border-width: 3px;
+    border-style: dotted;
+    border-color: tomato;
+    background-image: url(5.png);
+
+}
+.name h1{
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+}
+.name img{
+    height: 80px;
+    width: 80px;
+    clip-path: circle();
+    margin-top: 20px;
+}
+body{
+    background-image: url(1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
